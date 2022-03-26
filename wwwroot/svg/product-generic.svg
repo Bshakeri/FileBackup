@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="product-generic.svg"
+   version="1.1"
+   viewBox="0 0 130 130"
+   height="130"
+   width="130"
+   data-name="Layer 1"
+   id="Layer_1">
+  <metadata
+     id="metadata2745">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Finance</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Layer_1"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="76"
+     inkscape:cy="47.436946"
+     inkscape:cx="26.305349"
+     inkscape:zoom="2.8012307"
+     showgrid="false"
+     id="namedview2743"
+     inkscape:window-height="728"
+     inkscape:window-width="1274"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs2715">
+    <style
+       id="style2713">.cls-1{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title2717">Finance</title>
+  <ellipse
+     ry="62.60194"
+     rx="62.223301"
+     cy="65.378639"
+     cx="65"
+     id="path2747"
+     style="fill:#0055d4;stroke:#00ccff;stroke-width:1.178;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <g
+     id="g16934"
+     style="stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke:#d7eef4;stroke-linecap:butt">
+    <path
+       id="path16920"
+       d="M 66.135922,67.650485 97.689319,48.970873 66.388349,29.029126 33.825242,48.213592 Z"
+       style="fill:none;stroke:#d7eef4;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path16922"
+       d="M 97.689319,48.970873 98.194174,80.524271 66.388349,100.46602 66.135922,67.650485"
+       style="fill:none;stroke:#d7eef4;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path16926"
+       d="M 66.388349,100.46602 34.330097,80.776698 33.825242,48.213592"
+       style="fill:none;stroke:#d7eef4;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path16928"
+       d="M 50.737864,58.058252 82.291261,38.873786"
+       style="fill:none;stroke:#d7eef4;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
